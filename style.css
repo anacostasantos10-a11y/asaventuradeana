@@ -6,4 +6,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(83, 163, 115);
+    color:white;
+    font-family: "Roboto", sans-serif;
 }
